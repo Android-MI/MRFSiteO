@@ -2,7 +2,7 @@
   "name": "memmrf",
   "version": "1.0.0",
   "description": "memmrf",
-  "author": "mi.rufeng <958936985@qq.com>",
+  "author": "米如峰",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
