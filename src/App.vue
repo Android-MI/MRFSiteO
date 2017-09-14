@@ -310,6 +310,14 @@ if (!Store.getCookie('visited')) {
         "url": "https://c.runoob.com/front-end/55",
         "title": "RGB转16进制",
         "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://laravel-china.org/",
+        "title": "Laraval China",
+        "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "http://www.golaravel.com/",
+        "title": "Laraval",
+        "icon": require('./assets/img/icons/default.svg')
       }
   	])
   }
