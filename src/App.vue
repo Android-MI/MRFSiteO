@@ -318,6 +318,22 @@ if (!Store.getCookie('visited')) {
         "url": "http://www.golaravel.com/",
         "title": "Laraval",
         "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://www.codecasts.com/",
+        "title": "PHP学习",
+        "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://www.softosx.com/software/",
+        "title": "Mac破解软件",
+        "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://php-osx.liip.ch/",
+        "title": "PHP Package",
+        "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://services.gradle.org/distributions/",
+        "title": "Gradle Package",
+        "icon": require('./assets/img/icons/default.svg')
       }
   	])
   }
