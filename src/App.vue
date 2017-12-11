@@ -334,6 +334,10 @@ if (!Store.getCookie('visited')) {
         "url": "https://services.gradle.org/distributions/",
         "title": "Gradle Package",
         "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "http://mvnrepository.com/",
+        "title": "MavenRepository",
+        "icon": require('./assets/img/icons/default.svg')
       }
   	])
   }
