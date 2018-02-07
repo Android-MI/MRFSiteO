@@ -4,7 +4,7 @@
 
 	<!-- Header -->
 	<div class="header mdui-color-blue mdui-col-xs-12 mdui-toolbar">
-		<div>Home Page</div>
+		<div>主 页</div>
 		<div class="mdui-toolbar-spacer"></div>
 	</div>
 
@@ -337,6 +337,10 @@ if (!Store.getCookie('visited')) {
       }, {
         "url": "http://mvnrepository.com/",
         "title": "MavenRepository",
+        "icon": require('./assets/img/icons/default.svg')
+      }, {
+        "url": "https://plugins.jetbrains.com/",
+        "title": "Jetbrains Plugs",
         "icon": require('./assets/img/icons/default.svg')
       }
   	])
